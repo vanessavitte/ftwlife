@@ -1,0 +1,244 @@
+/* basic stuff
+	================================ */
+
+#map-canvas	{height:500px;}
+
+
+
+html		{font-size: 62.5%;}
+
+body		{
+		background-color: #F2EFE4;
+		font-family: 'Alegreya Sans', sans-serif;}
+		
+
+			
+			
+h1			{font-size: 55px; font-size: 5.5rem;
+			color: #2b325a;
+			text-align: center;
+			margin: 80px auto;
+			font-weight: 800;}
+
+h2			{font-size: 40px; font-size: 4rem;
+			color: #2b325a;
+			text-align: left;
+			margin: 50px 0 50px 20px;
+			font-weight: 800;} 			
+
+h3			{}
+
+h4			{font-size: 22px; font-size: 2.2rem;
+			color: #8a1d20;
+			font-weight: 800;
+			margin: 0;}
+			
+h4.center		{text-align: center;
+			margin: 0 0 50px 0;}
+			
+.text_main		{width: 800px;
+			margin: 0 auto;}						
+
+p			{font-size: 16px; font-size: 1.6rem;
+			color: #5e473d;
+			text-align: left;
+			line-height: 1.4em;
+			margin: 0;}
+
+.container	{max-width: 1200px;
+			margin: 0 auto;
+			}
+			
+				  
+
+a			{text-decoration: none;}
+
+a span 		{text-decoration: none;
+			color: #3d3936;
+			float: right;
+			font-size: 16px;
+			margin: 0 0 25px 0;
+			background: #CFCFCE;
+			padding: 5px;
+			border-radius: 10px;}	
+
+p a 		{color: #8a1d20;}	
+
+#details p 	{float: right;}
+			
+/* header, nav
+	================================ */			
+		
+.main-header
+			{background:rgba(242,239,228,0.6);
+			width: 100%;
+			
+			margin: 0 auto;
+			display: block;
+			position:absolute;
+			left:0px;
+			top:0px;
+			z-index:1;}
+			
+.main-logo a, 
+.fullnav a 
+			{display: block;
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding: 8px 5px;
+			border-radius: 5px;}
+			
+.fullnav 		{display: -webkit-flex;
+			display: flex;
+			height: 100%;}
+			
+.fullnav li 
+			{-webkit-align-self: center;
+			align-self: center;
+			-webkit-flex-grow: 1;
+			flex-grow: 1;
+			margin-left: 8px;
+			margin-right: 8px;}	
+			
+.fullnav a 		{color: #3B271E;
+	        	font-family: 'Montserrat', sans-serif;
+	        	text-decoration:none;
+	        	font-size: 24px; font-size: 2.4rem;}
+        
+.main-logo:first-child 
+			{margin-right: 50px;
+			-webkit-flex-grow: 1.5;
+			flex-grow: 1.5;}	
+			
+			
+
+
+/* content, images
+	================================ */	
+.col 			{padding: 20px;	
+			-webkit-flex: 1;
+			flex: 1;
+			width: 30%;
+			display: inline-block;
+			vertical-align: top;}
+			
+/*.content-row 
+			{display: -webkit-flex;
+			-webkit-flex-direction: row;
+			flex-direction: row;
+			-webkit-justify-content; space-between;
+			justify-content; space-between;}*/
+			
+.logo			{width:180px;
+			height: 100px;}			
+
+.feat-img 
+			{max-width: 100%;
+			height: auto;
+			width: auto
+			margin-bottom: 10px;
+			float: left;}
+			
+			
+
+#bodyimg img	
+			{max-width: 100%;
+			height: auto;
+			width: 100%;}	
+			
+		
+
+#contimg img 
+			{max-width: 100%;
+			height: auto;
+			width: auto}
+			
+#longimg		{max-width: 100%;
+			max-height: 300px;
+			height: auto;
+			width: auto}	
+
+#detailimg img	
+			{width:60%;
+			float: right;
+			margin: 50px 10px 0 0;
+			height: auto;}					
+			
+#noimg			{margin: 100px auto;}	
+
+.col-span-8 p 
+			{margin: 0 0 0 20px;}
+
+.col-span-8 img
+			{margin: 0 0 0 20px; }	
+			
+form			{display: inline;}	
+
+#numbers		{padding: 0 0 0 20px;}	
+
+col-span-4 iframe	{max-width: 100%;
+			max-height: 300px;
+			height: auto;
+			width: auto}}
+
+
+/* footer
+	================================ */	
+
+
+.main-footer 		{text-align: center;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			}
+			
+footer p 		{text-align: center;
+			margin: 0 0 20px 0;}
+
+
+/* Media Queries Responsive
+	================================ */
+
+
+@media screen and (max-width: 640px){
+
+.fullnav {display: none;}
+
+.col-span-8 img {display: none;}
+
+.mobile_logo {width: 90px;
+		Height:50px;
+		float: left;
+		padding: 5px 0 0 5px;}
+
+#bodyimg {width: 100%;}	
+h2			{font-size: 30px; font-size: 3rem;}
+}
+
+@media (max-width:750px) and (min-width:641px){
+.nav-collapse, #main {display: none;}
+.mobile_logo {display: none;}
+.fullnav a 	{font-size:14px;
+		font-size: 1.4rem;}
+}
+
+@media (max-width:768px) and (min-width:750px){
+.nav-collapse, #main {display: none;}
+.mobile_logo {display: none;}
+.fullnav a 	{font-size:14px;
+		font-size: 1.4rem;}
+}
+
+@media (max-width:900px) and (min-width:751px){
+.nav-collapse, #main {display: none;}
+.mobile_logo {display: none;}
+.fullnav a 	{font-size:14px;
+		font-size: 1.4rem;}
+}
+
+@media (min-width:901px){
+.nav-collapse, #main {display: none;}
+.mobile_logo {display: none;}
+}
+
+*/

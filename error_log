@@ -1,0 +1,78 @@
+[04-Jun-2014 18:05:09 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:05:09 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:05:09 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:05:09 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:10:18 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:10:18 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:10:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:10:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:10:21 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:10:21 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:10:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:10:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:11:57 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:11:57 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:11:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:11:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:12:00 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:12:00 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:12:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:12:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:13:03 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:13:03 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:13:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:13:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:13:09 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:13:09 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:13:09 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:13:09 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:13:21 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:13:21 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:13:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:13:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:14:29 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:14:29 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:14:29 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:14:29 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:14:33 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:14:33 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:14:33 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:14:33 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:14:39 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:14:39 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:14:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:14:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:15:31 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:15:31 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:15:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:15:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:15:34 America/Chicago] PHP Warning:  include_once(scripts/connect_db.php): failed to open stream: No such file or directory in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:15:34 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/connect_db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 6
+[04-Jun-2014 18:15:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:15:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 7
+[04-Jun-2014 18:15:52 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vvitte84_vanessa'@'localhost' to database 'vvitte84_fwlife_db' in /home4/vvitte84/public_html/school/ftwlife/connect_db.php on line 7
+[04-Jun-2014 18:15:52 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:15:52 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:17:20 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:17:20 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:18:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:18:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:18:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:18:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:20:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vvitte84'@'localhost' (using password: NO) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 18:20:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 8
+[04-Jun-2014 20:44:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$body' (T_VARIABLE) in /home4/vvitte84/public_html/school/ftwlife/abby.php on line 17
+[13-Jun-2014 10:48:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$page_id' (T_VARIABLE) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 24
+[16-Jun-2014 18:29:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$page_id' (T_VARIABLE) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 24
+[16-Jun-2014 18:30:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$page_id' (T_VARIABLE) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 24
+[16-Jun-2014 18:30:57 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 24
+[16-Jun-2014 18:37:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/ftwlife/connect_db.php:9) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 44
+[16-Jun-2014 18:40:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/ftwlife/connect_db.php:9) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 44
+[16-Jun-2014 20:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home4/vvitte84/public_html/school/ftwlife/barlouie.php on line 8
+[21-Aug-2014 09:31:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 54
+[21-Aug-2014 09:34:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 54
+[21-Aug-2014 09:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 54
+[21-Aug-2014 09:37:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/ftwlife/connect_db.php:9) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 45
+[21-Aug-2014 09:38:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/ftwlife/connect_db.php:9) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 45
+[21-Aug-2014 09:48:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vvitte84/public_html/school/ftwlife/connect_db.php:9) in /home4/vvitte84/public_html/school/ftwlife/rateParse.php on line 46
+[07-Sep-2014 02:35:57 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/vvitte84/public_html/school/ftwlife/rate.php on line 9
